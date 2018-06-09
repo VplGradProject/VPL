@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDE/IDE.iml" filepath="$PROJECT_DIR$/.idea/modules/IDE/IDE.iml" group="IDE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDE/IDE_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IDE/IDE_main.iml" group="IDE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDE/IDE_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IDE/IDE_test.iml" group="IDE" />
+      <module fileurl="file://$PROJECT_DIR$/VPL.iml" filepath="$PROJECT_DIR$/VPL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration.iml" group="VPLCodeGeneration" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration_main.iml" group="VPLCodeGeneration" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLCodeGeneration/VPLCodeGeneration_test.iml" group="VPLCodeGeneration" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent.iml" group="VPLComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent_main.iml" group="VPLComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLComponent/VPLComponent_test.iml" group="VPLComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin.iml" group="VPLDatabasePlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin_main.iml" group="VPLDatabasePlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VPLDatabasePlugin/VPLDatabasePlugin_test.iml" group="VPLDatabasePlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPL_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VPL_main.iml" group="VPL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VPL_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VPL_test.iml" group="VPL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapluginsapi.iml" filepath="$PROJECT_DIR$/.idea/modules/javapluginsapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapluginsapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javapluginsapi_main.iml" group="javapluginsapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapluginsapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javapluginsapi_test.iml" group="javapluginsapi" />
+    </modules>
+  </component>
+</project>

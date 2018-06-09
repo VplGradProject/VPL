@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: icraus.vpl:VPLComponent:0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VPL_MAVEN_REPO/icraus/vpl/VPLComponent/0.8/VPLComponent-0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/icraus/vpl/VPLComponent/0.8/VPLComponent-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

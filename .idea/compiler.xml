@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="IDE_main" target="1.8" />
+      <module name="IDE_test" target="1.8" />
+      <module name="javapluginsapi_main" target="1.8" />
+      <module name="javapluginsapi_test" target="1.8" />
+      <module name="VPL_main" target="1.8" />
+      <module name="VPL_test" target="1.8" />
+      <module name="VPLCodeGeneration_main" target="1.8" />
+      <module name="VPLCodeGeneration_test" target="1.8" />
+      <module name="VPLComponent_main" target="1.8" />
+      <module name="VPLComponent_test" target="1.8" />
+      <module name="VPLDatabasePlugin_main" target="1.8" />
+      <module name="VPLDatabasePlugin_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
